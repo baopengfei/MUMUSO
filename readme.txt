@@ -4,3 +4,5 @@ MUMUSO第一天
 hello
 you you you 
 pig
+cat
+dog
